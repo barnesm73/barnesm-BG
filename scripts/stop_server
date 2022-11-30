@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 #stop apache server
 sudo service httpd stop
 sudo rm -rf /var/www/html/*
